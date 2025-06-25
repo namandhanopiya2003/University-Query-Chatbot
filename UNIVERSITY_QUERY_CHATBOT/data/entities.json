@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "entity": "course",
+      "examples": [
+        "Computer Science",
+        "Mechanical Engineering",
+        "Business Administration",
+        "Psychology",
+        "Civil Engineering",
+        "Biotechnology",
+        "Electrical Engineering",
+        "Law",
+        "Medicine",
+        "Economics"
+      ]
+    },
+    {
+      "entity": "semester",
+      "examples": [
+        "fall",
+        "spring",
+        "summer",
+        "winter",
+        "next semester",
+        "current semester",
+        "last semester"
+      ]
+    },
+    {
+      "entity": "department",
+      "examples": [
+        "Admissions",
+        "Finance Department",
+        "Human Resources",
+        "Registrar",
+        "Student Affairs",
+        "Library",
+        "Computer Science Department"
+      ]
+    },
+    {
+      "entity": "campus",
+      "examples": [
+        "Main Campus",
+        "North Campus",
+        "Downtown Campus",
+        "West Campus"
+      ]
+    },
+    {
+      "entity": "day",
+      "examples": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "entity": "time",
+      "examples": [
+        "morning",
+        "afternoon",
+        "evening",
+        "9 AM",
+        "2 PM",
+        "5 PM"
+      ]
+    },
+    {
+      "entity": "event",
+      "examples": [
+        "orientation",
+        "graduation",
+        "exam",
+        "workshop",
+        "seminar",
+        "conference"
+      ]
+    },
+    {
+      "entity": "person",
+      "examples": [
+        "professor Smith",
+        "Dr. Johnson",
+        "Dean of Science",
+        "Registrar",
+        "Counselor",
+        "Advisor"
+      ]
+    },
+    {
+      "entity": "fee_type",
+      "examples": [
+        "tuition",
+        "library fee",
+        "hostel fee",
+        "lab fee",
+        "exam fee"
+      ]
+    },
+    {
+      "entity": "payment_method",
+      "examples": [
+        "credit card",
+        "debit card",
+        "online transfer",
+        "cash",
+        "check"
+      ]
+    },
+    {
+      "entity": "program_level",
+      "examples": [
+        "undergraduate",
+        "postgraduate",
+        "PhD",
+        "diploma",
+        "certificate"
+      ]
+    },
+    {
+      "entity": "application_status",
+      "examples": [
+        "pending",
+        "approved",
+        "rejected",
+        "under review"
+      ]
+    },
+    {
+      "entity": "holiday",
+      "examples": [
+        "Christmas",
+        "Thanksgiving",
+        "Easter",
+        "Independence Day"
+      ]
+    },
+    {
+      "entity": "building",
+      "examples": [
+        "Science Block",
+        "Library",
+        "Administration Building",
+        "Gymnasium"
+      ]
+    },
+    {
+      "entity": "facility",
+      "examples": [
+        "cafeteria",
+        "parking",
+        "sports complex",
+        "computer lab",
+        "medical center"
+      ]
+    },
+    {
+      "entity": "contact_method",
+      "examples": [
+        "email",
+        "phone",
+        "website",
+        "in person",
+        "postal mail"
+      ]
+    },
+    {
+      "entity": "degree",
+      "examples": [
+        "Bachelor of Science",
+        "Master of Arts",
+        "Doctor of Philosophy",
+        "Associate Degree"
+      ]
+    },
+    {
+      "entity": "language",
+      "examples": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Mandarin"
+      ]
+    },
+    {
+      "entity": "scholarship",
+      "examples": [
+        "merit-based",
+        "need-based",
+        "sports scholarship",
+        "research grant"
+      ]
+    },
+    {
+      "entity": "library_resource",
+      "examples": [
+        "books",
+        "journals",
+        "ebooks",
+        "research papers"
+      ]
+    },
+    {
+      "entity": "transport",
+      "examples": [
+        "bus",
+        "shuttle",
+        "parking permit",
+        "bicycle"
+      ]
+    },
+    {
+      "entity": "admission_requirement",
+      "examples": [
+        "transcripts",
+        "recommendation letters",
+        "personal statement",
+        "test scores"
+      ]
+    },
+    {
+      "entity": "accommodation",
+      "examples": [
+        "dormitory",
+        "off-campus housing",
+        "hostel",
+        "apartment"
+      ]
+    },
+    {
+      "entity": "club",
+      "examples": [
+        "drama club",
+        "debate society",
+        "robotics club",
+        "sports team"
+      ]
+    },
+    {
+      "entity": "grade",
+      "examples": [
+        "A",
+        "B+",
+        "C",
+        "Pass",
+        "Fail"
+      ]
+    }
+  ]
+}
