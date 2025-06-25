@@ -1,0 +1,200 @@
+{
+  "faqs": [
+    {
+      "question": "What are the university office hours?",
+      "answer": "Our office hours are Monday to Friday, 9 AM to 5 PM."
+    },
+    {
+      "question": "Where is the library located?",
+      "answer": "The main library is located in Building A, near the student center."
+    },
+    {
+      "question": "How do I apply for admission?",
+      "answer": "You can apply online through our university admissions portal."
+    },
+    {
+      "question": "What is the last date to apply for admission?",
+      "answer": "The admission deadline for the fall semester is August 15th."
+    },
+    {
+      "question": "How can I check my exam schedule?",
+      "answer": "Exam schedules are posted on the student portal one month before exams."
+    },
+    {
+      "question": "What courses are offered in the Computer Science department?",
+      "answer": "We offer courses such as Algorithms, Data Structures, AI, Machine Learning, and more."
+    },
+    {
+      "question": "How do I get my student ID card?",
+      "answer": "Visit the student services office with your admission letter to get your ID card."
+    },
+    {
+      "question": "What scholarships are available?",
+      "answer": "We offer merit-based, need-based, and sports scholarships. Visit the scholarships page for details."
+    },
+    {
+      "question": "Can I change my course after enrollment?",
+      "answer": "Course changes are allowed within the first two weeks of the semester with advisor approval."
+    },
+    {
+      "question": "Where can I find the academic calendar?",
+      "answer": "The academic calendar is available on the university website under ‘Academics’."
+    },
+    {
+      "question": "What are the tuition fees for undergraduate courses?",
+      "answer": "Tuition fees vary by program. Please check the fees section on the university website."
+    },
+    {
+      "question": "Is there on-campus accommodation available?",
+      "answer": "Yes, we have dormitories and hostels for students on campus."
+    },
+    {
+      "question": "How can I contact the registrar’s office?",
+      "answer": "You can email registrar@university.edu or call (123) 456-7890."
+    },
+    {
+      "question": "Where is the cafeteria located?",
+      "answer": "The cafeteria is in Building C next to the main auditorium."
+    },
+    {
+      "question": "Are there any student clubs I can join?",
+      "answer": "Yes, we have many clubs including drama, debate, robotics, and sports teams."
+    },
+    {
+      "question": "How do I reset my student portal password?",
+      "answer": "Use the ‘Forgot Password’ link on the student portal login page."
+    },
+    {
+      "question": "What is the procedure for applying for leave?",
+      "answer": "Submit a leave application form to your department head for approval."
+    },
+    {
+      "question": "Can international students apply for scholarships?",
+      "answer": "Yes, many scholarships are open to international students."
+    },
+    {
+      "question": "What is the process for registering for courses?",
+      "answer": "Register for courses via the student portal during the registration period."
+    },
+    {
+      "question": "Are online courses available?",
+      "answer": "Yes, we offer several online and hybrid courses."
+    },
+    {
+      "question": "How do I get a transcript?",
+      "answer": "Request transcripts through the registrar’s office website or in person."
+    },
+    {
+      "question": "Where can I park my vehicle on campus?",
+      "answer": "Student parking is available in Lot B and Lot D with a valid parking permit."
+    },
+    {
+      "question": "Is there a health center on campus?",
+      "answer": "Yes, the campus health center is located in Building F."
+    },
+    {
+      "question": "What sports facilities are available?",
+      "answer": "We have a gymnasium, football field, tennis courts, and swimming pool."
+    },
+    {
+      "question": "How do I apply for a study abroad program?",
+      "answer": "Contact the international office or visit their website for application details."
+    },
+    {
+      "question": "What documents are needed for admission?",
+      "answer": "You need transcripts, ID proof, passport photos, and any test scores."
+    },
+    {
+      "question": "How can I contact my academic advisor?",
+      "answer": "Advisor contact info is listed in your student portal."
+    },
+    {
+      "question": "Are there any upcoming university events?",
+      "answer": "Upcoming events are posted on the university calendar online."
+    },
+    {
+      "question": "What is the policy on late assignment submission?",
+      "answer": "Late submissions may incur penalties unless prior permission is granted."
+    },
+    {
+      "question": "How do I join the university mailing list?",
+      "answer": "Subscribe via the website or contact the communications office."
+    },
+    {
+      "question": "What computer labs are available for students?",
+      "answer": "Computer labs are located in Buildings B and D, open 8 AM to 10 PM."
+    },
+    {
+      "question": "Is Wi-Fi available on campus?",
+      "answer": "Yes, free Wi-Fi is available across all campus buildings."
+    },
+    {
+      "question": "How do I get help with career counseling?",
+      "answer": "Visit the career services office or book an appointment online."
+    },
+    {
+      "question": "Are there part-time job opportunities on campus?",
+      "answer": "Yes, the student employment office lists available positions."
+    },
+    {
+      "question": "What is the grading system used?",
+      "answer": "We use letter grades A, B, C, D, and F with corresponding GPA values."
+    },
+    {
+      "question": "Can I take a gap semester?",
+      "answer": "Yes, students can apply for a leave of absence with approval."
+    },
+    {
+      "question": "How do I update my personal details?",
+      "answer": "Update your details in the student portal or contact student services."
+    },
+    {
+      "question": "Where can I find internship opportunities?",
+      "answer": "Check the career services website for internships and co-op listings."
+    },
+    {
+      "question": "What library resources are available online?",
+      "answer": "Access ebooks, journals, and research databases via the library website."
+    },
+    {
+      "question": "How do I apply for a scholarship?",
+      "answer": "Complete the scholarship application form available online during the application period."
+    },
+    {
+      "question": "What should I do if I lose my student ID?",
+      "answer": "Report to student services to request a replacement ID card."
+    },
+    {
+      "question": "What dining options are available on campus?",
+      "answer": "We have cafeterias, coffee shops, and food trucks across campus."
+    },
+    {
+      "question": "Are there counseling services available?",
+      "answer": "Yes, confidential counseling services are offered at the student health center."
+    },
+    {
+      "question": "How do I register for exams?",
+      "answer": "Exam registration is done online via the student portal before deadlines."
+    },
+    {
+      "question": "Where can I find the university's code of conduct?",
+      "answer": "The code of conduct is available on the university website under ‘Policies’."
+    },
+    {
+      "question": "Can I audit a course without earning credits?",
+      "answer": "Yes, auditing is allowed with permission from the course instructor."
+    },
+    {
+      "question": "How do I appeal a grade?",
+      "answer": "Submit a grade appeal form to the academic affairs office within two weeks of results."
+    },
+    {
+      "question": "What transportation options are there to campus?",
+      "answer": "The university is accessible by bus, shuttle service, and bicycle paths."
+    },
+    {
+      "question": "How do I get technical support?",
+      "answer": "Contact the IT helpdesk via phone, email, or at the support center."
+    }
+  ]
+}
