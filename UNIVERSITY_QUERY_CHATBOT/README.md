@@ -34,36 +34,36 @@
 
 ## 📁 PROJECT FOLDER STRUCTURE ==>
 
-university_chatbot/
-│
-├── data/
-│   ├── intents.json                    # Intent definitions (tags, patterns, responses, context)
-│   ├── entities.json                   # Entity definitions (optional for slot-filling)
-│   └── knowledge_base.json             # Static FAQs or university info (optional)
-│
-├── chatbot/
-│   ├── __init__.py
-│   ├── preprocess.py                   # Loading & preprocessing data
-│   ├── model.py                        # Training & loading intent classification model
-│   ├── intent_classifier.py            # Predict intent & confidence scores
-│   ├── entity_extractor.py             # Extract entities from user input (dates, courses, etc.)
-│   ├── context_manager.py              # Manage user session contexts & conversation states
-│   ├── dialogue_manager.py             # Decide next bot action based on intent, context, entities
-│   ├── responder.py                    # Generate responses (templated or dynamic)
-│   ├── utils.py                        # Helper functions (e.g., text cleaning, random response selection)
-│   └── logger.py                       # Log conversations for analysis/improvements
-│
-├── tests/                              # Unit tests for modules (optional but recommended)
-│   ├── test_intent_classifier.py
-│   ├── test_context_manager.py
-│   └── test_responder.py
-│
-├── venv/
-│
-├── chatbot.log
-├── main.py                             # Chatbot terminal interface
-├── requirements.txt                    # Python package dependencies
-├── README.md                           # Setup and usage instructions
+university_chatbot/<br>
+│<br>
+├── data/<br>
+│   ├── intents.json                    # Intent definitions (tags, patterns, responses, context)<br>
+│   ├── entities.json                   # Entity definitions (optional for slot-filling)<br>
+│   └── knowledge_base.json             # Static FAQs or university info (optional)<br>
+│<br>
+├── chatbot/<br>
+│   ├── __init__.py<br>
+│   ├── preprocess.py                   # Loading & preprocessing data<br>
+│   ├── model.py                        # Training & loading intent classification model<br>
+│   ├── intent_classifier.py            # Predict intent & confidence scores<br>
+│   ├── entity_extractor.py             # Extract entities from user input (dates, courses, etc.)<br>
+│   ├── context_manager.py              # Manage user session contexts & conversation states<br>
+│   ├── dialogue_manager.py             # Decide next bot action based on intent, context, entities<br>
+│   ├── responder.py                    # Generate responses (templated or dynamic)<br>
+│   ├── utils.py                        # Helper functions (e.g., text cleaning, random response selection)<br>
+│   └── logger.py                       # Log conversations for analysis/improvements<br>
+│<br>
+├── tests/                              # Unit tests for modules (optional but recommended)<br>
+│   ├── test_intent_classifier.py<br>
+│   ├── test_context_manager.py<br>
+│   └── test_responder.py<br>
+│<br>
+├── venv/<br>
+│<br>
+├── chatbot.log<br>
+├── main.py                             # Chatbot terminal interface<br>
+├── requirements.txt                    # Python package dependencies<br>
+├── README.md                           # Setup and usage instructions<br>
 └── config.yaml                         # Configuration parameters (model paths, thresholds, etc.)
 
 ---
@@ -126,7 +126,7 @@ python main.py
 🤖 Chatbot: "Sure! You can visit the official admission page for full details."<br>
 
 💬 You: "What events are conducted in college?"<br>
-🤖 Chatbot: "For event details, visit <a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"> here</a>"<br>
+🤖 Chatbot: "For event details, visit 'here' "<br>
 
 💬 You: "quit"<br>
 🤖 Chatbot: "Goodbye! Have a nice day."<br>
@@ -141,4 +141,5 @@ For questions or feedback, feel free to reach out!
 
 
 ---
+
 
