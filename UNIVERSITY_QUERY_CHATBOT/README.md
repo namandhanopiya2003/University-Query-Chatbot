@@ -120,32 +120,6 @@ python main.py
 
 ---
 
-## ✅ IMPROVEMENTS MADE ==>
-
-- Implemented model persistence using Joblib for reusability without retraining every time.
-
-- Structured code for clarity, separating training logic, intent prediction, and chatbot response flow.
-
-- Enhanced intent recognition accuracy by preprocessing text and optimizing vectorization.
-
-- Integrated confidence thresholding to reduce false matches and improve response reliability.
-
-- Expanded intent coverage by generating over 1000 diverse university-related tags and patterns.
-
-- Built flexible response system using JSON, allowing easy updates to responses and patterns without touching the core code.
-
----
-
-## 📌 To Do / Future Enhancements ==>
-
-- Add GUI or Web-based interface.
-
-- Connect to university database or live API.
-
-- Integrate voice-based interaction.
-
----
-
 ## ✨ SAMPLE OUTPUT ==>
 
 💬 You: "Hi, can you tell me the admission process?"
@@ -164,5 +138,6 @@ python main.py
 ## 📬 CONTACT ==>
 
 For questions or feedback, feel free to reach out!
+
 
 ---
