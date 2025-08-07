@@ -122,14 +122,14 @@ python main.py
 
 ## ✨ SAMPLE OUTPUT ==>
 
-💬 You: "Hi, can you tell me the admission process?"
-🤖 Chatbot: "Sure! You can visit the official admission page for full details."
+💬 You: "Hi, can you tell me the admission process?"<br>
+🤖 Chatbot: "Sure! You can visit the official admission page for full details."<br>
 
-💬 You: "What events are conducted in college?"
-🤖 Chatbot: "For event details, visit <a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"> here</a>"
+💬 You: "What events are conducted in college?"<br>
+🤖 Chatbot: "For event details, visit <a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"> here</a>"<br>
 
-💬 You: "quit"
-🤖 Chatbot: "Goodbye! Have a nice day."
+💬 You: "quit"<br>
+🤖 Chatbot: "Goodbye! Have a nice day."<br>
 
 🟢 Status: User query successfully classified with high confidence.
 
@@ -141,3 +141,4 @@ For questions or feedback, feel free to reach out!
 
 
 ---
+
